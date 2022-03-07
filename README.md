@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## My Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLabbe&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/NathanLabbe)
+
 <!--
 **NathanLabbe/NathanLabbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
