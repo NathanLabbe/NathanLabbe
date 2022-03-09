@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Data Engineering 📊
+
+* [Graph Partitioning using the Ja-Be-Ja Algorithm](https://github.com/NathanLabbe/Data_Mining_Grah_Partioning)
+* [Finding Similar Items using Apache Spark](https://github.com/NathanLabbe/Data_Mining_Similar_Items)
