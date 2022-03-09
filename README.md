@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Machine Learning
+### Machine Learning 🤖🧠
 * [Detecting illegal gold mining sites in the Amazon forest Using Deep Learning to Classify Satellites Images](https://github.com/NathanLabbe/Thesis)
 
 ### Data Engineering 📊
