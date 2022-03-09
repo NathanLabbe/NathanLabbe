@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 
 ### Parallel Programming 💻
 * [Game of Life using MPI](https://github.com/NathanLabbe/GameOfLifeMPI)
+
+### Mobile Application 📱
+* [Smart Shopping List](https://github.com/NathanLabbe/BuyingListOCR)
