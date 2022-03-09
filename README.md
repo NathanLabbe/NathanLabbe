@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Machine Learning
+* [Detecting illegal gold mining sites in the Amazon forest Using Deep Learning to Classify Satellites Images](https://github.com/NathanLabbe/Thesis)
+
 ### Data Engineering 📊
 
 * [Graph Partitioning using the Ja-Be-Ja Algorithm](https://github.com/NathanLabbe/Data_Mining_Grah_Partioning)
