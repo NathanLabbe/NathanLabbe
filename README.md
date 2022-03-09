@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ### Machine Learning 🤖🧠
 * [Detecting illegal gold mining sites in the Amazon forest Using Deep Learning to Classify Satellites Images](https://github.com/NathanLabbe/Thesis)
+* [Impact of Image Compression on Classification Performance and Computer Resources in Deep Learning Image Recognition](https://github.com/NathanLabbe/CompressionImpactCNN)
 
 ### Data Engineering 📊
 
