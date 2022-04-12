@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 * [Graph Partitioning using the Ja-Be-Ja Algorithm](https://github.com/NathanLabbe/Data_Mining_Grah_Partioning)
 * [Finding Similar Items using Apache Spark](https://github.com/NathanLabbe/Data_Mining_Similar_Items)
-* [Finding frequent Items using Apache Spark](https://github.com/NathanLabbe/Data_Mining_Frequent_Item)
+* [Finding Frequent Items using Apache Spark](https://github.com/NathanLabbe/Data_Mining_Frequent_Item)
 
 ### Parallel Programming 💻
 * [Game of Life using MPI](https://github.com/NathanLabbe/GameOfLifeMPI)
