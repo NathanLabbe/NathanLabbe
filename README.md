@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 -->
 
 ### Machine Learning 🤖🧠
-* [LLM DeepSeek Fine-tuning & RAG](https://github.com/NathanLabbe/DeepSeek_fine-tuning_and_RAG)
+* [Local LLM & RAG](https://github.com/NathanLabbe/local_rag)
+* [LLM DeepSeek Fine-tuning](https://github.com/NathanLabbe/DeepSeek_fine-tuning_and_RAG)
 * [Detecting illegal gold mining sites in the Amazon forest Using Deep Learning to Classify Satellites Images](https://github.com/NathanLabbe/Thesis)
 * [Impact of Image Compression on Classification Performance and Computer Resources in Deep Learning Image Recognition](https://github.com/NathanLabbe/CompressionImpactCNN)
 
